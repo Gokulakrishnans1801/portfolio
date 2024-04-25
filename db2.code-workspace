@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../tutorjose/db2"
+	},
+	{
+		"path": "../../tutorjose/reactjs"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "portfolio"
+  }
+}

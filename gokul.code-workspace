@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "C:/Users/Gokulakrishnan/OneDrive/Desktop/gokul"
+	},
+	{
+		"path": "../../diy tasks"
+	},
+	{
+		"path": "../../tutor jose/node/new_server"
+	},
+	{
+		"path": "../../express"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "js-photo_Gallery"
+  }
+}
